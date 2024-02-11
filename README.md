@@ -4,606 +4,604 @@ https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.htm
 
 ## ZoneId.getAvailableZoneIds
 
-Asia/Aden
-America/Cuiaba
-Etc/GMT+9
-Etc/GMT+8
-Africa/Nairobi
-America/Marigot
-Asia/Aqtau
-Pacific/Kwajalein
-America/El_Salvador
-Asia/Pontianak
-Africa/Cairo
-Pacific/Pago_Pago
-Africa/Mbabane
-Asia/Kuching
-Pacific/Honolulu
-Pacific/Rarotonga
-America/Guatemala
-Australia/Hobart
-Europe/London
-America/Belize
-America/Panama
-Asia/Chungking
-America/Managua
-America/Indiana/Petersburg
-Asia/Yerevan
-Europe/Brussels
-GMT
-Europe/Warsaw
-America/Chicago
-Asia/Kashgar
-Chile/Continental
-Pacific/Yap
-CET
-Etc/GMT-1
-Etc/GMT-0
-Europe/Jersey
-America/Tegucigalpa
-Etc/GMT-5
-Europe/Istanbul
-America/Eirunepe
-Etc/GMT-4
-America/Miquelon
-Etc/GMT-3
-Europe/Luxembourg
-Etc/GMT-2
-Etc/GMT-9
-America/Argentina/Catamarca
-Etc/GMT-8
-Etc/GMT-7
-Etc/GMT-6
-Europe/Zaporozhye
-Canada/Yukon
-Canada/Atlantic
-Atlantic/St_Helena
-Australia/Tasmania
-Libya
-Europe/Guernsey
-America/Grand_Turk
-Asia/Samarkand
-America/Argentina/Cordoba
-Asia/Phnom_Penh
-Africa/Kigali
-Asia/Almaty
-US/Alaska
-Asia/Dubai
-Europe/Isle_of_Man
-America/Araguaina
-Cuba
-Asia/Novosibirsk
-America/Argentina/Salta
-Etc/GMT+3
-Africa/Tunis
-Etc/GMT+2
-Etc/GMT+1
-Pacific/Fakaofo
-Africa/Tripoli
-Etc/GMT+0
-Israel
-Africa/Banjul
-Etc/GMT+7
-Indian/Comoro
-Etc/GMT+6
-Etc/GMT+5
-Etc/GMT+4
-Pacific/Port_Moresby
-US/Arizona
-Antarctica/Syowa
-Indian/Reunion
-Pacific/Palau
-Europe/Kaliningrad
-America/Montevideo
-Africa/Windhoek
-Asia/Karachi
-Africa/Mogadishu
-Australia/Perth
-Brazil/East
-Etc/GMT
-Asia/Chita
-Pacific/Easter
-Antarctica/Davis
-Antarctica/McMurdo
-Asia/Macao
-America/Manaus
-Africa/Freetown
-Europe/Bucharest
-Asia/Tomsk
-America/Argentina/Mendoza
-Asia/Macau
-Europe/Malta
-Mexico/BajaSur
-Pacific/Tahiti
-Africa/Asmera
-Europe/Busingen
-America/Argentina/Rio_Gallegos
-Africa/Malabo
-Europe/Skopje
-America/Catamarca
-America/Godthab
-Europe/Sarajevo
-Australia/ACT
-GB-Eire
-Africa/Lagos
-America/Cordoba
-Europe/Rome
-Asia/Dacca
-Indian/Mauritius
-Pacific/Samoa
-America/Regina
-America/Fort_Wayne
-America/Dawson_Creek
-Africa/Algiers
-Europe/Mariehamn
-America/St_Johns
-America/St_Thomas
-Europe/Zurich
-America/Anguilla
-Asia/Dili
-America/Denver
-Africa/Bamako
-Europe/Saratov
-GB
-Mexico/General
-Pacific/Wallis
-Europe/Gibraltar
-Africa/Conakry
-Africa/Lubumbashi
-Asia/Istanbul
-America/Havana
-NZ-CHAT
-Asia/Choibalsan
-America/Porto_Acre
-Asia/Omsk
-Europe/Vaduz
-US/Michigan
-Asia/Dhaka
-America/Barbados
-Europe/Tiraspol
-Atlantic/Cape_Verde
-Asia/Yekaterinburg
-America/Louisville
-Pacific/Johnston
-Pacific/Chatham
-Europe/Ljubljana
-America/Sao_Paulo
-Asia/Jayapura
-America/Curacao
-Asia/Dushanbe
-America/Guyana
-America/Guayaquil
-America/Martinique
-Portugal
-Europe/Berlin
-Europe/Moscow
-Europe/Chisinau
-America/Puerto_Rico
-America/Rankin_Inlet
-Pacific/Ponape
-Europe/Stockholm
-Europe/Budapest
-America/Argentina/Jujuy
-Australia/Eucla
-Asia/Shanghai
-Universal
-Europe/Zagreb
-America/Port_of_Spain
-Europe/Helsinki
-Asia/Beirut
-Asia/Tel_Aviv
-Pacific/Bougainville
-US/Central
-Africa/Sao_Tome
-Indian/Chagos
-America/Cayenne
-Asia/Yakutsk
-Pacific/Galapagos
-Australia/North
-Europe/Paris
-Africa/Ndjamena
-Pacific/Fiji
-America/Rainy_River
-Indian/Maldives
-Australia/Yancowinna
-SystemV/AST4
-Asia/Oral
-America/Yellowknife
-Pacific/Enderbury
-America/Juneau
-Australia/Victoria
-America/Indiana/Vevay
-Asia/Tashkent
-Asia/Jakarta
-Africa/Ceuta
-Asia/Barnaul
-America/Recife
-America/Buenos_Aires
-America/Noronha
-America/Swift_Current
-Australia/Adelaide
-America/Metlakatla
-Africa/Djibouti
-America/Paramaribo
-Asia/Qostanay
-Europe/Simferopol
-Europe/Sofia
-Africa/Nouakchott
-Europe/Prague
-America/Indiana/Vincennes
-Antarctica/Mawson
-America/Kralendijk
-Antarctica/Troll
-Europe/Samara
-Indian/Christmas
-America/Antigua
-Pacific/Gambier
-America/Indianapolis
-America/Inuvik
-America/Iqaluit
-Pacific/Funafuti
-UTC
-Antarctica/Macquarie
-Canada/Pacific
-America/Moncton
-Africa/Gaborone
-Pacific/Chuuk
-Asia/Pyongyang
-America/St_Vincent
-Asia/Gaza
-Etc/Universal
-PST8PDT
-Atlantic/Faeroe
-Asia/Qyzylorda
-Canada/Newfoundland
-America/Kentucky/Louisville
-America/Yakutat
-America/Ciudad_Juarez
-Asia/Ho_Chi_Minh
-Antarctica/Casey
-Europe/Copenhagen
-Africa/Asmara
-Atlantic/Azores
-Europe/Vienna
-ROK
-Pacific/Pitcairn
-America/Mazatlan
-Australia/Queensland
-Pacific/Nauru
-Europe/Tirane
-Asia/Kolkata
-SystemV/MST7
-Australia/Canberra
-MET
-Australia/Broken_Hill
-Europe/Riga
-America/Dominica
-Africa/Abidjan
-America/Mendoza
-America/Santarem
-Kwajalein
-America/Asuncion
-Asia/Ulan_Bator
-NZ
-America/Boise
-Australia/Currie
-EST5EDT
-Pacific/Guam
-Pacific/Wake
-Atlantic/Bermuda
-America/Costa_Rica
-America/Dawson
-Asia/Chongqing
-Eire
-Europe/Amsterdam
-America/Indiana/Knox
-America/North_Dakota/Beulah
-Africa/Accra
-Atlantic/Faroe
-Mexico/BajaNorte
-America/Maceio
-Etc/UCT
-Pacific/Apia
-GMT0
-America/Atka
-Pacific/Niue
-Australia/Lord_Howe
-Europe/Dublin
-Pacific/Truk
-MST7MDT
-America/Monterrey
-America/Nassau
-America/Jamaica
-Asia/Bishkek
-America/Atikokan
-Atlantic/Stanley
-Australia/NSW
-US/Hawaii
-SystemV/CST6
-Indian/Mahe
-Asia/Aqtobe
-America/Sitka
-Asia/Vladivostok
-Africa/Libreville
-Africa/Maputo
-Zulu
-America/Kentucky/Monticello
-Africa/El_Aaiun
-Africa/Ouagadougou
-America/Coral_Harbour
-Pacific/Marquesas
-Brazil/West
-America/Aruba
-America/North_Dakota/Center
-America/Cayman
-Asia/Ulaanbaatar
-Asia/Baghdad
-Europe/San_Marino
-America/Indiana/Tell_City
-America/Tijuana
-Pacific/Saipan
-SystemV/YST9
-Africa/Douala
-America/Chihuahua
-America/Ojinaga
-Asia/Hovd
-America/Anchorage
-Chile/EasterIsland
-America/Halifax
-Antarctica/Rothera
-America/Indiana/Indianapolis
-US/Mountain
-Asia/Damascus
-America/Argentina/San_Luis
-America/Santiago
-Asia/Baku
-America/Argentina/Ushuaia
-Atlantic/Reykjavik
-Africa/Brazzaville
-Africa/Porto-Novo
-America/La_Paz
-Antarctica/DumontDUrville
-Asia/Taipei
-Antarctica/South_Pole
-Asia/Manila
-Asia/Bangkok
-Africa/Dar_es_Salaam
-Poland
-Atlantic/Madeira
-Antarctica/Palmer
-America/Thunder_Bay
-Africa/Addis_Ababa
-Asia/Yangon
-Europe/Uzhgorod
-Brazil/DeNoronha
-Asia/Ashkhabad
-Etc/Zulu
-America/Indiana/Marengo
-America/Creston
-America/Punta_Arenas
-America/Mexico_City
-Antarctica/Vostok
-Asia/Jerusalem
-Europe/Andorra
-US/Samoa
-PRC
-Asia/Vientiane
-Pacific/Kiritimati
-America/Matamoros
-America/Blanc-Sablon
-Asia/Riyadh
-Iceland
-Pacific/Pohnpei
-Asia/Ujung_Pandang
-Atlantic/South_Georgia
-Europe/Lisbon
-Asia/Harbin
-Europe/Oslo
-Asia/Novokuznetsk
-CST6CDT
-Atlantic/Canary
-America/Knox_IN
-Asia/Kuwait
-SystemV/HST10
-Pacific/Efate
-Africa/Lome
-America/Bogota
-America/Menominee
-America/Adak
-Pacific/Norfolk
-Europe/Kirov
-America/Resolute
-Pacific/Kanton
-Pacific/Tarawa
-Africa/Kampala
-Asia/Krasnoyarsk
-Greenwich
-SystemV/EST5
-America/Edmonton
-Europe/Podgorica
-Australia/South
-Canada/Central
-Africa/Bujumbura
-America/Santo_Domingo
-US/Eastern
-Europe/Minsk
-Pacific/Auckland
-Africa/Casablanca
-America/Glace_Bay
-Canada/Eastern
-Asia/Qatar
-Europe/Kiev
-Singapore
-Asia/Magadan
-SystemV/PST8
-America/Port-au-Prince
-Europe/Belfast
-America/St_Barthelemy
-Asia/Ashgabat
-Africa/Luanda
-America/Nipigon
-Atlantic/Jan_Mayen
-Brazil/Acre
-Asia/Muscat
-Asia/Bahrain
-Europe/Vilnius
-America/Fortaleza
-Etc/GMT0
-US/East-Indiana
-America/Hermosillo
-America/Cancun
-Africa/Maseru
-Pacific/Kosrae
-Africa/Kinshasa
-Asia/Kathmandu
-Asia/Seoul
-Australia/Sydney
-America/Lima
-Australia/LHI
-America/St_Lucia
-Europe/Madrid
-America/Bahia_Banderas
-America/Montserrat
-Asia/Brunei
-America/Santa_Isabel
-Canada/Mountain
-America/Cambridge_Bay
-Asia/Colombo
-Australia/West
-Indian/Antananarivo
-Australia/Brisbane
-Indian/Mayotte
-US/Indiana-Starke
-Asia/Urumqi
-US/Aleutian
-Europe/Volgograd
-America/Lower_Princes
-America/Vancouver
-Africa/Blantyre
-America/Rio_Branco
-America/Danmarkshavn
-America/Detroit
-America/Thule
-Africa/Lusaka
-Asia/Hong_Kong
-Iran
-America/Argentina/La_Rioja
-Africa/Dakar
-SystemV/CST6CDT
-America/Tortola
-America/Porto_Velho
-Asia/Sakhalin
-Etc/GMT+10
-America/Scoresbysund
-Asia/Kamchatka
-Asia/Thimbu
-Africa/Harare
-Etc/GMT+12
-Etc/GMT+11
-Navajo
-America/Nome
-Europe/Tallinn
-Turkey
-Africa/Khartoum
-Africa/Johannesburg
-Africa/Bangui
-Europe/Belgrade
-Jamaica
-Africa/Bissau
-Asia/Tehran
-WET
-Europe/Astrakhan
-Africa/Juba
-America/Campo_Grande
-America/Belem
-Etc/Greenwich
-Asia/Saigon
-America/Ensenada
-Pacific/Midway
-America/Jujuy
-Africa/Timbuktu
-America/Bahia
-America/Goose_Bay
-America/Virgin
-America/Pangnirtung
-Asia/Katmandu
-America/Phoenix
-Africa/Niamey
-America/Whitehorse
-Pacific/Noumea
-Asia/Tbilisi
-Europe/Kyiv
-America/Montreal
-Asia/Makassar
-America/Argentina/San_Juan
-Hongkong
-UCT
-Asia/Nicosia
-America/Indiana/Winamac
-SystemV/MST7MDT
-America/Argentina/ComodRivadavia
-America/Boa_Vista
-America/Grenada
-Asia/Atyrau
-Australia/Darwin
-Asia/Khandyga
-Asia/Kuala_Lumpur
-Asia/Famagusta
-Asia/Thimphu
-Asia/Rangoon
-Europe/Bratislava
-Asia/Calcutta
-America/Argentina/Tucuman
-Asia/Kabul
-Indian/Cocos
-Japan
-Pacific/Tongatapu
-America/New_York
-Etc/GMT-12
-Etc/GMT-11
-America/Nuuk
-Etc/GMT-10
-SystemV/YST9YDT
-Europe/Ulyanovsk
-Etc/GMT-14
-Etc/GMT-13
-W-SU
-America/Merida
-EET
-America/Rosario
-Canada/Saskatchewan
-America/St_Kitts
-Arctic/Longyearbyen
-America/Fort_Nelson
-America/Caracas
-America/Guadeloupe
-Asia/Hebron
-Indian/Kerguelen
-SystemV/PST8PDT
-Africa/Monrovia
-Asia/Ust-Nera
-Egypt
-Asia/Srednekolymsk
-America/North_Dakota/New_Salem
-Asia/Anadyr
-Australia/Melbourne
-Asia/Irkutsk
-America/Shiprock
-America/Winnipeg
-Europe/Vatican
-Asia/Amman
-Etc/UTC
-SystemV/AST4ADT
-Asia/Tokyo
-America/Toronto
-Asia/Singapore
-Australia/Lindeman
-America/Los_Angeles
-SystemV/EST5EDT
-Pacific/Majuro
-America/Argentina/Buenos_Aires
-Europe/Nicosia
-Pacific/Guadalcanal
-Europe/Athens
-US/Pacific
-Europe/Monaco
+
+<h1>Lista de Fusos Horários</h1>
+    <ul>
+        <li>Asia/Aden</li>
+        <li>America/Cuiaba</li>
+        <li>Etc/GMT+9</li>
+        <li>Etc/GMT+8</li>
+        <li>Africa/Nairobi</li>
+        <li>America/Marigot</li>
+        <li>Asia/Aqtau</li>
+        <li>Pacific/Kwajalein</li>
+        <li>America/El_Salvador</li>
+        <li>Asia/Pontianak</li>
+        <li>Africa/Cairo</li>
+        <li>Pacific/Pago_Pago</li>
+        <li>Africa/Mbabane</li>
+        <li>Asia/Kuching</li>
+        <li>Pacific/Honolulu</li>
+        <li>Pacific/Rarotonga</li>
+        <li>America/Guatemala</li>
+        <li>Australia/Hobart</li>
+        <li>Europe/London</li>
+        <li>America/Belize</li>
+        <li>America/Panama</li>
+        <li>Asia/Chungking</li>
+        <li>America/Managua</li>
+        <li>America/Indiana/Petersburg</li>
+        <li>Asia/Yerevan</li>
+        <li>Europe/Brussels</li>
+        <li>GMT</li>
+        <li>Europe/Warsaw</li>
+        <li>America/Chicago</li>
+        <li>Asia/Kashgar</li>
+        <li>Chile/Continental</li>
+        <li>Pacific/Yap</li>
+        <li>CET</li>
+        <li>Etc/GMT-1</li>
+        <li>Etc/GMT-0</li>
+        <li>Europe/Jersey</li>
+        <li>America/Tegucigalpa</li>
+        <li>Etc/GMT-5</li>
+        <li>Europe/Istanbul</li>
+        <li>America/Eirunepe</li>
+        <li>Etc/GMT-4</li>
+        <li>America/Miquelon</li>
+        <li>Etc/GMT-3</li>
+        <li>Europe/Luxembourg</li>
+        <li>Etc/GMT-2</li>
+        <li>Etc/GMT-9</li>
+        <li>America/Argentina/Catamarca</li>
+        <li>Etc/GMT-8</li>
+        <li>Etc/GMT-7</li>
+        <li>Etc/GMT-6</li>
+        <li>Europe/Zaporozhye</li>
+        <li>Canada/Yukon</li>
+        <li>Canada/Atlantic</li>
+        <li>Atlantic/St_Helena</li>
+        <li>Australia/Tasmania</li>
+        <li>Libya</li>
+        <li>Europe/Guernsey</li>
+        <li>America/Grand_Turk</li>
+        <li>Asia/Samarkand</li>
+        <li>America/Argentina/Cordoba</li>
+        <li>Asia/Phnom_Penh</li>
+        <li>Africa/Kigali</li>
+        <li>Asia/Almaty</li>
+        <li>US/Alaska</li>
+        <li>Asia/Dubai</li>
+        <li>Europe/Isle_of_Man</li>
+        <li>America/Araguaina</li>
+        <li>Cuba</li>
+        <li>Asia/Novosibirsk</li>
+        <li>America/Argentina/Salta</li>
+        <li>Etc/GMT+3</li>
+        <li>Africa/Tunis</li>
+        <li>Etc/GMT+2</li>
+        <li>Etc/GMT+1</li>
+        <li>Pacific/Fakaofo</li>
+        <li>Africa/Tripoli</li>
+        <li>Etc/GMT+0</li>
+        <li>Israel</li>
+        <li>Africa/Banjul</li>
+        <li>Etc/GMT+7</li>
+        <li>Indian/Comoro</li>
+        <li>Etc/GMT+6</li>
+        <li>Etc/GMT+5</li>
+        <li>Etc/GMT+4</li>
+        <li>Pacific/Port_Moresby</li>
+        <li>US/Arizona</li>
+        <li>Antarctica/Syowa</li>
+        <li>Indian/Reunion</li>
+        <li>Pacific/Palau</li>
+        <li>Europe/Kaliningrad</li>
+        <li>America/Montevideo</li>
+        <li>Africa/Windhoek</li>
+        <li>Asia/Karachi</li>
+        <li>Africa/Mogadishu</li>
+        <li>Australia/Perth</li>
+        <li>Brazil/East</li>
+        <li>Etc/GMT</li>
+        <li>Asia/Chita</li>
+        <li>Pacific/Easter</li>
+        <li>Antarctica/Davis</li>
+        <li>Antarctica/McMurdo</li>
+        <li>Asia/Macao</li>
+        <li>America/Manaus</li>
+        <li>Africa/Freetown</li>
+        <li>Europe/Bucharest</li>
+        <li>Asia/Tomsk</li>
+        <li>America/Argentina/Mendoza</li>
+        <li>Asia/Macau</li>
+        <li>Europe/Malta</li>
+        <li>Mexico/BajaSur</li>
+        <li>Pacific/Tahiti</li>
+        <li>Africa/Asmera</li>
+        <li>Europe/Busingen</li>
+        <li>America/Argentina/Rio_Gallegos</li>
+        <li>Africa/Malabo</li>
+        <li>Europe/Skopje</li>
+        <li>America/Catamarca</li>
+        <li>America/Godthab</li>
+        <li>Europe/Sarajevo</li>
+        <li>Australia/ACT</li>
+        <li>GB-Eire</li>
+        <li>Africa/Lagos</li>
+        <li>America/Cordoba</li>
+        <li>Europe/Rome</li>
+        <li>Asia/Dacca</li>
+        <li>Indian/Mauritius</li>
+        <li>Pacific/Samoa</li>
+        <li>America/Regina</li>
+        <li>America/Fort_Wayne</li>
+        <li>America/Dawson_Creek</li>
+        <li>Africa/Algiers</li>
+        <li>Europe/Mariehamn</li>
+        <li>America/St_Johns</li>
+        <li>America/St_Thomas</li>
+        <li>Europe/Zurich</li>
+        <li>America/Anguilla</li>
+        <li>Asia/Dili</li>
+        <li>America/Denver</li>
+        <li>Africa/Bamako</li>
+        <li>Europe/Saratov</li>
+        <li>GB</li>
+        <li>Mexico/General</li>
+        <li>Pacific/Wallis</li>
+        <li>Europe/Gibraltar</li>
+        <li>Africa/Conakry</li>
+        <li>Africa/Lubumbashi</li>
+        <li>Asia/Istanbul</li>
+        <li>America/Havana</li>
+        <li>NZ-CHAT</li>
+        <li>Asia/Choibalsan</li>
+        <li>America/Porto_Acre</li>
+        <li>Asia/Omsk</li>
+        <li>Europe/Vaduz</li>
+        <li>US/Michigan</li>
+        <li>Asia/Dhaka</li>
+        <li>America/Barbados</li>
+        <li>Europe/Tiraspol</li>
+        <li>Atlantic/Cape_Verde</li>
+        <li>Asia/Yekaterinburg</li>
+        <li>America/Louisville</li>
+        <li>Pacific/Johnston</li>
+        <li>Pacific/Chatham</li>
+        <li>Europe/Ljubljana</li>
+        <li>America/Sao_Paulo</li>
+        <li>Asia/Jayapura</li>
+        <li>America/Curacao</li>
+        <li>Asia/Dushanbe</li>
+        <li>America/Guyana</li>
+        <li>America/Guayaquil</li>
+        <li>America/Martinique</li>
+        <li>Portugal</li>
+        <li>Europe/Berlin</li>
+        <li>Europe/Moscow</li>
+        <li>Europe/Chisinau</li>
+        <li>America/Puerto_Rico</li>
+        <li>America/Rankin_Inlet</li>
+        <li>Pacific/Ponape</li>
+        <li>Europe/Stockholm</li>
+        <li>Europe/Budapest</li>
+        <li>America/Argentina/Jujuy</li>
+        <li>Australia/Eucla</li>
+        <li>Asia/Shanghai</li>
+        <li>Universal</li>
+        <li>Europe/Zagreb</li>
+        <li>America/Port_of_Spain</li>
+        <li>Europe/Helsinki</li>
+        <li>Asia/Beirut</li>
+        <li>Asia/Tel_Aviv</li>
+        <li>Pacific/Bougainville</li>
+        <li>US/Central</li>
+        <li>Africa/Sao_Tome</li>
+        <li>Indian/Chagos</li>
+        <li>America/Cayenne</li>
+        <li>Asia/Yakutsk</li>
+        <li>Pacific/Galapagos</li>
+        <li>Australia/North</li>
+        <li>Europe/Paris</li>
+        <li>Africa/Ndjamena</li>
+        <li>Pacific/Fiji</li>
+        <li>America/Rainy_River</li>
+        <li>Indian/Maldives</li>
+        <li>Australia/Yancowinna</li>
+        <li>SystemV/AST4</li>
+        <li>Asia/Oral</li>
+        <li>America/Yellowknife</li>
+        <li>Pacific/Enderbury</li>
+        <li>America/Juneau</li>
+        <li>Australia/Victoria</li>
+        <li>America/Indiana/Vevay</li>
+        <li>Asia/Tashkent</li>
+        <li>Asia/Jakarta</li>
+        <li>Africa/Ceuta</li>
+        <li>Asia/Barnaul</li>
+        <li>America/Recife</li>
+        <li>America/Buenos_Aires</li>
+        <li>America/Noronha</li>
+        <li>America/Swift_Current</li>
+        <li>Australia/Adelaide</li>
+        <li>America/Metlakatla</li>
+        <li>Africa/Djibouti</li>
+        <li>America/Paramaribo</li>
+        <li>Asia/Qostanay</li>
+        <li>Europe/Simferopol</li>
+        <li>Europe/Sofia</li>
+        <li>Africa/Nouakchott</li>
+        <li>Europe/Prague</li>
+        <li>America/Indiana/Vincennes</li>
+        <li>Antarctica/Mawson</li>
+        <li>America/Kralendijk</li>
+        <li>Antarctica/Troll</li>
+        <li>Europe/Samara</li>
+        <li>Indian/Christmas</li>
+        <li>America/Antigua</li>
+        <li>Pacific/Gambier</li>
+        <li>America/Indianapolis</li>
+        <li>America/Inuvik</li>
+        <li>America/Iqaluit</li>
+        <li>Pacific/Funafuti</li>
+        <li>UTC</li>
+        <li>Antarctica/Macquarie</li>
+        <li>Canada/Pacific</li>
+        <li>America/Moncton</li>
+        <li>Africa/Gaborone</li>
+        <li>Pacific/Chuuk</li>
+        <li>Asia/Pyongyang</li>
+        <li>America/St_Vincent</li>
+        <li>Asia/Gaza</li>
+        <li>Etc/Universal</li>
+        <li>PST8PDT</li>
+        <li>Atlantic/Faeroe</li>
+        <li>Asia/Qyzylorda</li>
+        <li>Canada/Newfoundland</li>
+        <li>America/Kentucky/Louisville</li>
+        <li>America/Yakutat</li>
+        <li>America/Ciudad_Juarez</li>
+        <li>Asia/Ho_Chi_Minh</li>
+        <li>Antarctica/Casey</li>
+        <li>Europe/Copenhagen</li>
+        <li>Africa/Asmara</li>
+        <li>Atlantic/Azores</li>
+        <li>Europe/Vienna</li>
+        <li>ROK</li>
+        <li>Pacific/Pitcairn</li>
+        <li>America/Mazatlan</li>
+        <li>Australia/Queensland</li>
+        <li>Pacific/Nauru</li>
+        <li>Europe/Tirane</li>
+        <li>Asia/Kolkata</li>
+        <li>SystemV/MST7</li>
+        <li>Australia/Canberra</li>
+        <li>MET</li>
+        <li>Australia/Broken_Hill</li>
+        <li>Europe/Riga</li>
+        <li>America/Dominica</li>
+        <li>Africa/Abidjan</li>
+        <li>America/Mendoza</li>
+        <li>America/Santarem</li>
+        <li>Kwajalein</li>
+        <li>America/Asuncion</li>
+        <li>Asia/Ulan_Bator</li>
+        <li>NZ</li>
+        <li>America/Boise</li>
+        <li>Australia/Currie</li>
+        <li>EST5EDT</li>
+        <li>Pacific/Guam</li>
+        <li>Pacific/Wake</li>
+        <li>Atlantic/Bermuda</li>
+        <li>America/Costa_Rica</li>
+        <li>America/Dawson</li>
+        <li>Asia/Chongqing</li>
+        <li>Eire</li>
+        <li>Europe/Amsterdam</li>
+        <li>America/Indiana/Knox</li>
+        <li>America/North_Dakota/Beulah</li>
+        <li>Africa/Accra</li>
+        <li>Atlantic/Faroe</li>
+        <li>Mexico/BajaNorte</li>
+        <li>America/Maceio</li>
+        <li>Etc/UCT</li>
+        <li>Pacific/Apia</li>
+        <li>GMT0</li>
+        <li>America/Atka</li>
+        <li>Pacific/Niue</li>
+        <li>Australia/Lord_Howe</li>
+        <li>Europe/Dublin</li>
+        <li>Pacific/Truk</li>
+        <li>MST7MDT</li>
+        <li>America/Monterrey</li>
+        <li>America/Nassau</li>
+        <li>America/Jamaica</li>
+        <li>Asia/Bishkek</li>
+        <li>America/Atikokan</li>
+        <li>Atlantic/Stanley</li>
+        <li>Australia/NSW</li>
+        <li>US/Hawaii</li>
+        <li>SystemV/CST6</li>
+        <li>Indian/Mahe</li>
+        <li>Asia/Aqtobe</li>
+        <li>America/Sitka</li>
+        <li>Asia/Vladivostok</li>
+        <li>Africa/Libreville</li>
+        <li>Africa/Maputo</li>
+        <li>Zulu</li>
+        <li>America/Kentucky/Monticello</li>
+        <li>Africa/El_Aaiun</li>
+        <li>Africa/Ouagadougou</li>
+        <li>America/Coral_Harbour</li>
+        <li>Pacific/Marquesas</li>
+        <li>Brazil/West</li>
+        <li>America/Aruba</li>
+        <li>America/North_Dakota/Center</li>
+        <li>America/Cayman</li>
+        <li>Asia/Ulaanbaatar</li>
+        <li>Asia/Baghdad</li>
+        <li>Europe/San_Marino</li>
+        <li>America/Indiana/Tell_City</li>
+        <li>America/Tijuana</li>
+        <li>Pacific/Saipan</li>
+        <li>SystemV/YST9</li>
+        <li>Africa/Douala</li>
+        <li>America/Chihuahua</li>
+        <li>America/Ojinaga</li>
+        <li>Asia/Hovd</li>
+        <li>America/Anchorage</li>
+        <li>Chile/EasterIsland</li>
+        <li>America/Halifax</li>
+        <li>Antarctica/Rothera</li>
+        <li>America/Indiana/Indianapolis</li>
+        <li>US/Mountain</li>
+        <li>Asia/Damascus</li>
+        <li>America/Argentina/San_Luis</li>
+        <li>America/Santiago</li>
+        <li>Asia/Baku</li>
+        <li>America/Argentina/Ushuaia</li>
+        <li>Atlantic/Reykjavik</li>
+        <li>Africa/Brazzaville</li>
+        <li>Africa/Porto-Novo</li>
+        <li>America/La_Paz</li>
+        <li>Antarctica/DumontDUrville</li>
+        <li>Asia/Taipei</li>
+        <li>Antarctica/South_Pole</li>
+        <li>Asia/Manila</li>
+        <li>Asia/Bangkok</li>
+        <li>Africa/Dar_es_Salaam</li>
+        <li>Poland</li>
+        <li>Atlantic/Madeira</li>
+        <li>Antarctica/Palmer</>
+        <li>America/Thunder_Bay</li>
+        <li>Africa/Addis_Ababa</li>
+        <li>Asia/Yangon</li>
+        <li>Europe/Uzhgorod</li>
+        <li>Brazil/DeNoronha</li>
+        <li>Asia/Ashkhabad</li>
+        <li>Etc/Zulu</li>
+        <li>America/Indiana/Marengo</li>
+        <li>America/Creston</li>
+        <li>America/Punta_Arenas</li>
+        <li>America/Mexico_City</li>
+        <li>Antarctica/Vostok</li>
+        <li>Asia/Jerusalem</li>
+        <li>Europe/Andorra</li>
+        <li>US/Samoa</li>
+        <li>PRC</li>
+        <li>Asia/Vientiane</li>
+        <li>Pacific/Kiritimati</li>
+        <li>America/Matamoros</li>
+        <li>America/Blanc-Sablon</li>
+        <li>Asia/Riyadh</li>
+        <li>Iceland</li>
+        <li>Pacific/Pohnpei</li>
+        <li>Asia/Ujung_Pandang</li>
+        <li>Atlantic/South_Georgia</li>
+        <li>Europe/Lisbon</li>
+        <li>Asia/Harbin</li>
+        <li>Europe/Oslo</li>
+        <li>Asia/Novokuznetsk</li>
+        <li>CST6CDT</li>
+        <li>Atlantic/Canary</li>
+        <li>America/Knox_IN</li>
+        <li>Asia/Kuwait</li>
+        <li>SystemV/HST10</li>
+        <li>Pacific/Efate</li>
+        <li>Africa/Lome</li>
+        <li>America/Bogota</li>
+        <li>America/Menominee</li>
+        <li>America/Adak</li>
+        <li>Pacific/Norfolk</li>
+        <li>Europe/Kirov</li>
+        <li>America/Resolute</li>
+        <li>Pacific/Kanton</li>
+        <li>Pacific/Tarawa</li>
+        <li>Africa/Kampala</li>
+        <li>Asia/Krasnoyarsk</li>
+        <li>Greenwich</li>
+        <li>SystemV/EST5</li>
+        <li>America/Edmonton</li>
+        <li>Europe/Podgorica</li>
+        <li>Australia/South</li>
+        <li>Canada/Central</li>
+        <li>Africa/Bujumbura</li>
+        <li>America/Santo_Domingo</li>
+        <li>US/Eastern</li>
+        <li>Europe/Minsk</li>
+        <li>Pacific/Auckland</li>
+        <li>Africa/Casablanca</li>
+        <li>America/Glace_Bay</li>
+        <li>Canada/Eastern</li>
+        <li>Asia/Qatar</li>
+        <li>Europe/Kiev</li>
+        <li>Singapore</li>
+        <li>Asia/Magadan</li>
+        <li>SystemV/PST8</li>
+        <li>America/Port-au-Prince</li>
+        <li>Europe/Belfast</li>
+        <li>America/St_Barthelemy</li>
+        <li>Asia/Ashgabat</li>
+        <li>Africa/Luanda</li>
+        <li>America/Nipigon</li>
+        <li>Atlantic/Jan_Mayen</li>
+        <li>Brazil/Acre</li>
+        <li>Asia/Muscat</li>
+        <li>Asia/Bahrain</li>
+        <li>Europe/Vilnius</li>
+        <li>America/Fortaleza</li>
+        <li>Etc/GMT0</li>
+        <li>US/East-Indiana</li>
+        <li>America/Hermosillo</li>
+        <li>America/Cancun</li>
+        <li>Africa/Maseru</li>
+        <li>Pacific/Kosrae</li>
+        <li>Africa/Kinshasa</li>
+        <li>Asia/Kathmandu</li>
+        <li>Asia/Seoul</li>
+        <li>Australia/Sydney</li>
+        <li>America/Lima</li>
+        <li>Australia/LHI</li>
+        <li>America/St_Lucia</li>
+        <li>Europe/Madrid</li>
+        <li>America/Bahia_Banderas</li>
+        <li>America/Montserrat</li>
+        <li>Asia/Brunei</li>
+        <li>America/Santa_Isabel</li>
+        <li>Canada/Mountain</li>
+        <li>America/Cambridge_Bay</li>
+        <li>Asia/Colombo</li>
+        <li>Australia/West</li>
+        <li>Indian/Antananarivo</li>
+        <li>Australia/Brisbane</li>
+        <li>Indian/Mayotte</li>
+        <li>US/Indiana-Starke</li>
+        <li>Asia/Urumqi</li>
+        <li>US/Aleutian</li>
+        <li>Europe/Volgograd</li>
+        <li>America/Lower_Princes</li>
+        <li>America/Vancouver</li>
+        <li>Africa/Blantyre</li>
+        <li>America/Rio_Branco</li>
+        <li>America/Danmarkshavn</li>
+        <li>America/Detroit</li>
+        <li>America/Thule</li>
+        <li>Africa/Lusaka</li>
+        <li>Asia/Hong_Kong</li>
+        <li>Iran</li>
+        <li>America/Argentina/La_Rioja</li>
+        <li>Africa/Dakar</li>
+        <li>SystemV/CST6CDT</li>
+        <li>America/Tortola</li>
+        <li>America/Porto_Velho</li>
+        <li>Asia/Sakhalin</li>
+        <li>Etc/GMT+10</li>
+        <li>America/Scoresbysund</li>
+        <li>Asia/Kamchatka</li>
+        <li>Asia/Thimbu</li>
+        <li>Africa/Harare</li>
+        <li>Etc/GMT+12</li>
+        <li>Etc/GMT+11</li>
+        <li>Navajo</li>
+        <li>America/Nome</li>
+        <li>Europe/Tallinn</li>
+        <li>Turkey</li>
+        <li>Africa/Khartoum</li>
+        <li>Africa/Johannesburg</li>
+        <li>Africa/Bangui</li>
+        <li>Europe/Belgrade</li>
+        <li>Jamaica</li>
+        <li>Africa/Bissau</li>
+        <li>Asia/Tehran</li>
+        <li>WET</li>
+        <li>Europe/Astrakhan</li>
+        <li>Africa/Juba</li>
+        <li>America/Campo_Grande</li>
+        <li>America/Belem</li>
+        <li>Etc/Greenwich</li>
+        <li>Asia/Saigon</li>
+        <li>America/Ensenada</li>
+        <li>Pacific/Midway</li>
+        <li>America/Jujuy</li>
+        <li>Africa/Timbuktu</li>
+        <li>America/Bahia</li>
+        <li>America/Goose_Bay</li>
+        <li>America/Virgin</li>
+        <li>America/Pangnirtung</li>
+        <li>Asia/Katmandu</li>
+        <li>America/Phoenix</li>
+        <li>Africa/Niamey</li>
+        <li>America/Whitehorse</li>
+        <li>Pacific/Noumea</li>
+        <li>Asia/Tbilisi</li>
+        <li>Europe/Kyiv</li>
+        <li>America/Montreal</li>
+        <li>Asia/Makassar</li>
+        <li>America/Argentina/San_Juan</li>
+        <li>Hongkong</li>
+        <li>UCT</li>
+        <li>Asia/Nicosia</li>
+        <li>America/Indiana/Winamac</li>
+        <li>SystemV/MST7MDT</li>
+        <li>America/Argentina/ComodRivadavia</li>
+        <li>America/Boa_Vista</li>
+        <li>America/Grenada</li>
+        <li>Asia/Atyrau</li>
+        <li>Australia/Darwin</li>
+        <li>Asia/Khandyga</li>
+        <li>Asia/Kuala_Lumpur</li>
+        <li>Asia/Famagusta</li>
+        <li>Asia/Thimphu</li>
+        <li>Asia/Rangoon</li>
+        <li>Europe/Bratislava</li>
+        <li>Asia/Calcutta</li>
+        <li>America/Argentina/Tucuman</li>
+        <li>Asia/Kabul</li>
+        <li>Indian/Cocos</li>
+        <li>Japan</li>
+        <li>Pacific/Tongatapu</li>
+        <li>America/New_York</li>
+        <li>Etc/GMT-12</li>
+        <li>Etc/GMT-11</li>
+        <li>America/Nuuk</li>
+        <li>Etc/GMT-10</li>
+        <li>SystemV/YST9YDT</li>
+        <li>Europe/Ulyanovsk</li>
+        <li>Etc/GMT-14</li>
+        <li>Etc/GMT-13</li>
+        <li>W-SU</li>
+        <li>America/Merida</li>
+        <li>EET</li>
+        <li>America/Rosario</li>
+        <li>Canada/Saskatchewan</li>
+        <li>America/St_Kitts</li>
+        <li>Arctic/Longyearbyen</li>
+        <li>America/Fort_Nelson</li>
+        <li>America/Caracas</li>
+        <li>America/Guadeloupe</li>
+        <li>Asia/Hebron</li>
+        <li>Indian/Kerguelen</li>
+        <li>SystemV/PST8PDT</li>
+        <li>Africa/Monrovia</li>
+        <li>Asia/Ust-Nera</li>
+        <li>Egypt</li>
+        <li>Asia/Srednekolymsk</li>
+        <li>America/North_Dakota/New_Salem</li>
+        <li>Asia/Anadyr</li>
+        <li>Australia/Melbourne</li>
+        <li>Asia/Irkutsk</li>
+        <li>America/Shiprock</li>
+        <li>America/Winnipeg</li>
+        <li>Europe/Vatican</li>
+        <li>Asia/Amman</li>
+        <li>Etc/UTC</li>
+        <li>SystemV/AST4ADT</li>
+        <li>Asia/Tokyo</li>
+        <li>America/Toronto</li>
+        <li>Asia/Singapore</li>
+        <li>Australia/Lindeman</li>
+        <li>America/Los_Angeles</li>
+        <li>SystemV/EST5EDT</li>
+        <li>Pacific/Majuro</li>
+    </ul>
